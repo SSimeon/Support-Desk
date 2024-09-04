@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TGO17FjJ8s5qdBKoWShhJyWUsft9P6pKemyxXM13+uQ=",
+  "Source": "HelpDeskApp",
+  "BasePath": "_content/HelpDeskApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
